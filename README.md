@@ -166,3 +166,6 @@ git push origin --delete feature/cart
 - **Участник 1:** Рахат Орынхан
 - **Участник 2:** Санжар Аби
 
+![photo_2025-12-06_03-31-53](https://github.com/user-attachments/assets/7b700628-c1a8-477e-b5c4-81d79172d7f5)
+![photo_2025-12-06_03-31-56](https://github.com/user-attachments/assets/9be9a8b3-c890-48cb-82e3-4c64fcc01073)
+![photo_2025-12-06_03-31-58](https://github.com/user-attachments/assets/cdec2804-a1cb-4625-93fa-2129c2df121f)
